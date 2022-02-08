@@ -4,10 +4,10 @@ Hiding from COVID-19 in sunny Las Terrenas :dominican_republic:
 
 ![Playa Las Ballenas, Las Terrenas](https://jchlu.d.pr/ITxilD/Dj13FvIA4O+)
 - 🌱 I’m currently cramming into my brain:
-  - [FaunaDB](https://fauna.com/)
-  - [GraphQL](https://graphql.org/)
-  - [RedwoodJS](https://redwoodjs.com/)
-  - [Contentful](https://www.contentful.com/)  
+  - [11ty](https://www.11ty.dev/)
+  - [Cloudinary](https://cloudinary.com)
+  - [SvelteKit](https://kit.svelte.dev/)
+  - [Netlify](https://app.netlify.com) 
 
 Find me elsewhere:  
 [![](https://jchlu.d.pr/QnXWnT/oAXZ7nIA2a+)](https://twitter.com/jchlu)
