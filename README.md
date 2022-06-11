@@ -1,13 +1,14 @@
 ### Hi Folks 👋 Johnny C-L here...
 Former EC-Council C|EH, Certified SCRUM Master & [Zend Certified PHP Engineer](https://www.zend-zce.com/en/yellow-pages/ZEND028318)  
-Hiding from COVID-19 in sunny Las Terrenas :dominican_republic:
+Now mostly developing JamStack web apps (or riding a BMX) in sunny Las Terrenas :dominican_republic:
 
-![Playa Las Ballenas, Las Terrenas](https://jchlu.d.pr/ITxilD/Dj13FvIA4O+)
+![Playa Las Ballenas, Las Terrenas](https://jchlu.d.pr/oavA3J/St8vwwxWQV+)
 - 🌱 I’m currently cramming into my brain:
+  - [Supabase](https://supabase.com/docs/)
+  - [NextJS](https://nextjs.org/) 
+  - [Prisma Client](https://www.prisma.io/client)
   - [11ty](https://www.11ty.dev/)
   - [Cloudinary](https://cloudinary.com)
-  - [SvelteKit](https://kit.svelte.dev/)
-  - [Netlify](https://app.netlify.com) 
 
 Find me elsewhere:  
 [![](https://jchlu.d.pr/QnXWnT/oAXZ7nIA2a+)](https://twitter.com/jchlu)
