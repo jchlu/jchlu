@@ -6,9 +6,9 @@ Now mostly developing JamStack web apps (or riding a BMX) in sunny Las Terrenas 
 - 🌱 I’m currently cramming into my brain:
   - [Supabase](https://supabase.com/docs/)
   - [NextJS](https://nextjs.org/) 
-  - [Prisma Client](https://www.prisma.io/client)
+  - Typescript (I'm finally admitting this)
   - [11ty](https://www.11ty.dev/)
-  - [Cloudinary](https://cloudinary.com)
+  - [tRPC](https://trpc.io/)
 
 Find me elsewhere:  
 [![](https://jchlu.d.pr/QnXWnT/oAXZ7nIA2a+)](https://twitter.com/jchlu)
