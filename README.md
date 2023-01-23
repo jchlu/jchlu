@@ -4,18 +4,15 @@ Now mostly developing JamStack web apps (or riding a BMX) in sunny Las Terrenas 
 
 ![Playa Las Ballenas, Las Terrenas](https://jchlu.d.pr/oavA3J/St8vwwxWQV+)
 - 🌱 I’m currently cramming into my brain:
-  - [Supabase](https://supabase.com/docs/)
-  - [NextJS](https://nextjs.org/) 
-  - Typescript (I'm finally admitting this)
-  - [11ty](https://www.11ty.dev/)
+  - [Astro](https://astro.build)
+  - [Fresh](https://fresh.deno.dev/) 
   - [tRPC](https://trpc.io/)
-
+  - Typescript (I'm finally admitting this)
+  
 Find me elsewhere:  
-[![](https://jchlu.d.pr/QnXWnT/oAXZ7nIA2a+)](https://twitter.com/jchlu)
 [![](https://jchlu.d.pr/AYTC1J/IQ3CcpWzyH+)](https://www.instagram.com/jchlu/)
-[![](https://jchlu.d.pr/fDGQeV/j39RlkWQt1+)](https://www.linkedin.com/in/jchlu/)
-[![](https://jchlu.d.pr/oMSSc4/jpvwEelIhC+)](https://github.com/jchlu)  
-
+[![](https://jchlu.d.pr/fDGQeV/j39RlkWQt1+)](https://www.linkedin.com/in/jchlu/)    
+_(I'm no longer on Twitter - it's unusable without [TweetBot](https://tapbots.com/tweetbot/))_
 
 
 
