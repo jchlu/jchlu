@@ -2,12 +2,12 @@
 Former EC-Council C|EH, Certified SCRUM Master & [Zend Certified PHP Engineer](https://www.zend-zce.com/en/yellow-pages/ZEND028318)  
 Now mostly developing JamStack web apps (or riding a BMX) in sunny Las Terrenas :dominican_republic:
 
-![Playa Las Ballenas, Las Terrenas](https://jchlu.d.pr/oavA3J/St8vwwxWQV+)
+![Playa Las Ballenas, Las Terrenas](https://jchlu.d.pr/i/bAPpGS+)
 - 🌱 I’m currently cramming into my brain:
-  - [Astro](https://astro.build)
-  - [Fresh](https://fresh.deno.dev/) 
-  - [tRPC](https://trpc.io/)
-  - Typescript (I'm finally admitting this)
+  - [Astro 3](https://astro.build)
+  - [htmx](https://htmx.org/) 
+
+While listening to some [Judd Harris](https://juddharris.com/) :musical_note:      
   
 Find me elsewhere:  
 [![](https://jchlu.d.pr/AYTC1J/IQ3CcpWzyH+)](https://www.instagram.com/jchlu/)
