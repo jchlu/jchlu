@@ -1,6 +1,7 @@
 ### Hi Folks 👋 Johnny C-L here...
 Former EC-Council C|EH, Certified SCRUM Master & [Zend Certified PHP Engineer](https://www.zend-zce.com/en/yellow-pages/ZEND028318)  
-Now mostly developing JamStack web apps (or riding a BMX) in sunny Las Terrenas :dominican_republic:
+Now mostly developing JamStack web apps (riding a BMX, playing pickleball or trying not to get injured training [Brazilian Jiu-Jitsu](https://www.academiadelacosta.com/)🐙)    
+in sunny Las Terrenas :dominican_republic:
 
 ![Playa Las Ballenas, Las Terrenas](https://jchlu.d.pr/i/bAPpGS+)
 - 🌱 I’m currently cramming into my brain:
