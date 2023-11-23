@@ -7,7 +7,7 @@ in sunny Las Terrenas :dominican_republic:
 - 🌱 I’m currently cramming into my brain:
   - [Typescript](https://courses.webdevsimplified.com/view/courses/typescript-simplified/) (I know, back to that old chestnut)
   - [Astro 3](https://astro.build)
-  - [Server Actions with NextJS 14]([https://htmx.org/](https://nextjs.org/docs/app/api-reference/functions/server-actions)) 
+  - [Server Actions with NextJS 14](https://nextjs.org/docs/app/api-reference/functions/server-actions)
 
 While listening to some [Judd Harris](https://juddharris.com/) :musical_note:      
   
